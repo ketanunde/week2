@@ -1,6 +1,7 @@
 x <- 2
 x
 y <- 5
+<<<<<<< HEAD
 y
 
 is.numeric(x)
@@ -52,3 +53,4 @@ vec3_factors <- as.factor(vec3)
 class(vec3_factors)
 class((vec3))
 # end of vector
+
